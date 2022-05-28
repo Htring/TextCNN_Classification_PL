@@ -1,0 +1,2 @@
+# TextCNN_Classification_PL
+基于pytorch lightning的textcnn文本分类
